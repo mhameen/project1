@@ -8,8 +8,7 @@ body{
 }
 .background{
     background-image: url("/bg-header-mobile.png");
-    height: 44vh;
-    
+    height: 44vh;   
 }
 .logo{
     display: flex;
@@ -278,7 +277,7 @@ span{
 }
 .footer{
     background-color: rgb(236, 236, 236);
-    width: 375px;
+    width: 390px;
     height: 500px;
    
 }
@@ -364,7 +363,7 @@ span{
         
     }  
     .h3{
-        padding-left: 45px;
+        padding-right: 450px;
         font-size: 1.8rem;
     }
     .h4{
@@ -382,7 +381,6 @@ span{
        padding-top: 50px;
    }
    .h11{
-       padding-left: 550px;
        font-size: 1.8rem;
      
    }
@@ -405,21 +403,17 @@ span{
        padding-left: 350px;
    }
    .h13{
-       padding-left: 445px;
        letter-spacing: 1px;
        word-spacing: 5px;
    }
    .h14{
        max-width:980px ;
-       padding-left: 510px;
+       padding-left: 340px;
    }
    .logos{
        display: flex;
        flex-direction: row;
        padding-top: 100px;
-   }
-   .h21{
-       padding-left:470px;
    }
    .h22{
        max-width: 950PX;
@@ -496,7 +490,7 @@ span{
     font-size: 1.6rem;
 }
 .logo4{
-    padding-left: 100px;
+    padding-left: 130px;
 }
 }
 
