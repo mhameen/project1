@@ -53,7 +53,7 @@ span{
 }
 .input2{
     background-color:hsl(233, 100%,69%);
-    padding-left: 25px;
+    padding-left: 20px;
     height: 50px;
     width: 80%;
     padding-right: 30px;
@@ -277,7 +277,7 @@ span{
 }
 .footer{
     background-color: rgb(236, 236, 236);
-    width: 390px;
+    width: 360px;
     height: 500px;
    
 }
