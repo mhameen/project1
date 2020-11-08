@@ -16,164 +16,146 @@ body{
     align-items: center;
     padding-top: 18vh;
 }
+.section1{
+    
+}
 .h1{
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    word-spacing: 5px;
     color:  hsl(210, 10%, 33%);
     text-align: center;
 }
 span{
     display: block;
-    padding-left: 0px;
 }
 
 .h2{
     text-align: center;
     color:  hsl(201, 11%, 66%);
-    max-width: 340px;
-    padding-top: 25px;
+    padding: 25px;
     font-size: 18px;
-    padding-left: 20px;
 }
 .input1{
+    display: block;
+    margin: 10px auto;
     background-color:hsl(171, 66%, 44%);
-    padding-left: 25px;
-    height: 50px;
+    padding: 10px 15px;
     width: 80%;
-    padding-right: 30px;
     font-size: 1.5rem;
     border: none;
     border-radius: 30px;
     color: white;
 }
-.download1{
-    padding-left: 55px;
-    padding-top: 30px;
-}
+
 .input2{
+    display: block;
+    margin: 10px auto;
     background-color:hsl(233, 100%,69%);
-    padding-left: 20px;
-    height: 50px;
+    padding: 10px 15px;
     width: 80%;
-    padding-right: 30px;
     font-size: 1.5rem;
     border: none;
     border-radius: 30px;
     color: white;
-}
-.download2{
-    padding-left: 55px;
-    padding-top: 30px;
 }
 .h3{
+    padding: 25px;
     text-align: center;
     font-size: 2.2rem;
     font-family: 'Oswald', sans-serif;
     word-spacing: 5px;
     color:  hsl(210, 10%, 33%);
 }
-.span2{
-    display: block;
-    padding-left: 0px;
-}
 .h4{
+    padding: 25px;
     text-align: center;
-    padding-top: 30px;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
     font-size: 18px;
-    padding-left: 20px;
+}
+.computer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .image{
-    width: 320px;
-    height: 320px ;
-    padding-left: 35px;
-    padding-top: 70px;
+    width: 260px;
+    height: 240px ;
+    
 }
 .h5{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h6{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
-    padding-left: 20px;
 }
 .h7{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h8{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
     padding-left: 20px;
 }
 .h9{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h10{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
     padding-top: 15px;
     font-size: 18px;
-    padding-left: 20px;
 }
 .h11{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
-    padding-left: 20px;
 }
-.span3{
-    padding-left: 0px;
-
-}
-
 .h12{
+    padding: 25px;
     text-align: center;
     max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
-    padding-left: 20px;
+}
+.device{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .image2{
-    padding-left: 35px;
-    padding-top: 70px;
+    height: 240px;
 }
 .h13{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 8px;
     color:  hsl(210, 10%, 33%);
-    padding-left: 0px;
 }
 .h14{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
     padding-left: 20px;
 }
@@ -182,149 +164,153 @@ span{
     padding-top: 80px;
 }
 .h15{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h16{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
     padding-top: 15px;
     font-size: 18px;
-    padding-left: 20px;
 }
 .logo3{
     padding-left: 150px;
     padding-top: 60px;
 }
 .h17{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h18{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
-    padding-left: 20px;
 }
 .logo4{
     padding-left: 150px;
     padding-top: 60px;
 }
 .h19{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 30px;
     color:  hsl(210, 10%, 33%);
 }
 .h20{
+    padding: 25px;
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
     font-size: 18px;
 }
 .logos{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .logo5{
-    padding-left: 130px;
-    padding-top: 50px;
+    padding: 20px;
+   height: 80px;
+   width: 180px;
 }
 .logo6{
-    padding-left: 130px;
-    padding-top: 50px;
+    padding: 20px;
+    height: 80px;
+    width: 180px;
 }
 .logo7{
-    padding-left: 130px;
-    padding-top: 50px;
+    padding: 20px;
+    height: 80px;
+    width: 180px;
 }
 .logo8{
-    padding-left: 130px;
-    padding-top: 50px;
+    padding: 20px;
+    height: 90px;
+    width: 180px;
 }
 .logo9{
-    padding-left: 130px;
-    padding-top: 50px;
+    padding: 20px;
+    height: 80px;
+    width: 180px;
 }
 .h21{
+    padding: 25px;
     text-align: center;
     font-size: 2rem;
     font-family: 'Oswald', sans-serif;
-    padding-top: 150px;
     color:  hsl(210, 10%, 33%);
 }
-.span4{
-    padding-left: 0px;
-}
 .h22{
+    
     text-align: center;
-    max-width: 340px;
     color:  hsl(201, 11%, 66%);
-    padding-top: 15px;
-    font-size: 18px;
-    padding-left: 20px;
+    padding: 20px;
+    font-size: 18px;ss
 }
 .footer{
     background-color: rgb(236, 236, 236);
-    width: 360px;
-    height: 500px;
+    height: 530px;
    
 }
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.text{
+    text-align: center;
+    
+    flex-direction: row;
+}
 .smalllogo{
-    padding-top: 40px;
-    padding-left: 140px;
+    width: 130px;
+    height: 130px;
+    padding: 30px;
 }
 .s1{
-    padding-top: 20px;
-    padding-left: 150px;
+    padding: 20px;
     font-size: 1.5rem;
     color:  hsl(210, 10%, 33%);
 }
 .s2{
-    padding-top: 20px;
-    padding-left: 130px ;
+    padding: 20px;
     font-size: 1.5rem;
     color:  hsl(210, 10%, 33%);
 }
 .s3{
-    padding-top: 20px;
-    padding-left:120px;
+    padding: 20px;
     font-size: 1.5rem;
     color:  hsl(210, 10%, 33%);
 }
 .s4{
-    padding-top: 20px;
-    padding-left: 135px;
+    padding: 20px;
     font-size: 1.5rem;
     color:  hsl(210, 10%, 33%);
 }
 .s5{
-    padding-top: 20px;
-    padding-left: 125px;
+    padding: 20px;
     font-size: 1.5rem;
     color:  hsl(210, 10%, 33%);
 }
 .facebook{
-    padding-top:60px ;
-    padding-left: 80px;
+    padding-top:30px ;
+    padding-left: 100px;
 }
 .instagram{
-    padding-top:60px ;
-    padding-left: 60px;
+    padding-top:30px ;
+    padding-left: 40px;
 }
 .twitter{
-    padding-top:60px ;
+    padding-top:30px ;
     padding-left: 50px;
 }
 @media only screen and (min-width:1024px) {
